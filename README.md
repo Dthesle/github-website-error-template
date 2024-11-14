@@ -3,12 +3,12 @@ Yes, just like the other plenty website template thingies I've made, this one is
 
 > [!IMPORTANT]
 > Credits to Github themselves.
-> I got this template from here: https://github.githubassets.com/
+> I got this template from across Github, mainly the error pages.
 
 > [!NOTE]
 > Demonstrated by the picture below, the green is the url which you CAN change, and the red is the link name, which you CAN change.
-> (If you can't see it, it's lines 288 - 290)
-> I merged ratelimiting error with this repository.
+> - (If you can't see it, it's lines 288 - 290)
+> - Picture below is demonstrated for **webmissing1.html**
 
 ![picture](/lol.png)
 
