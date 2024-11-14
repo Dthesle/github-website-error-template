@@ -10,3 +10,7 @@ Yes, just like the other plenty website template thingies I've made, this one is
 > (If you can't see it, it's lines 288 - 290)
 
 ![picture](/lol.png)
+
+
+Go check out the other one I got, which is just the ratelimit error.
+https://github.com/Dthesle/github-website-ratelimit-template
