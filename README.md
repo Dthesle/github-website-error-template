@@ -13,5 +13,8 @@ Yes, just like the other plenty website template thingies I've made, this one is
 ![picture](/lol.png)
 
 ## Public Testing:
-**Webpage Missing Error:** https://dthesle.github.io/github-website-error-template/
-**Ratelimit Error:** https://dthesle.github.io/github-website-error-template/ratelimit.html
+- **Webpage Missing Error 1 (Light, V1 Probably):** https://dthesle.github.io/github-website-error-template/webmissing1.html
+- **Webpage Missing Error 2 (Dark, Current Probably):** https://dthesle.github.io/github-website-error-template/webmissing2.html
+- **Ratelimit Error:** https://dthesle.github.io/github-website-error-template/ratelimit.html
+- **File Not Found - 404 Error:** https://dthesle.github.io/github-website-error-template/filenotfound-404.html
+- **Site Not Found - 404 Error:** https://dthesle.github.io/github-website-error-template/nosite-404.html
